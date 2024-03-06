@@ -36,7 +36,7 @@ Acesse meu GitHub principal clicando [aqui.](https://github.com/urbanykv)
 
 ### Tecnologias que estou estudando
 ![Figma](https://skillicons.dev/icons?i=figma) &nbsp;&nbsp;
-![Illustrator](https://skillicons.dev/icons?i=illustrator) &nbsp;&nbsp;
+![Illustrator](https://skillicons.dev/icons?i=illustrator)
 
 
 ### Projetos Relevantes
