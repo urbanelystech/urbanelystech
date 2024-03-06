@@ -31,9 +31,6 @@ Acesse meu GitHub principal clicando [aqui.](https://github.com/urbanykv)
 ![Adobe Photoshop](https://skillicons.dev/icons?i=photoshop) &nbsp;&nbsp;
 ![MongoDB](https://skillicons.dev/icons?i=mongodb) &nbsp;&nbsp;
 <img src="https://portfolio-matheusurban.vercel.app/assets/icons/sql-server.png" alt="SQL Server" width="48" height="48"/>
-
-
-### Tecnologias que estou estudando
 ![Node.js](https://skillicons.dev/icons?i=nodejs) &nbsp;&nbsp;
 ![Express.js](https://skillicons.dev/icons?i=express) &nbsp;&nbsp;
 ![Figma](https://skillicons.dev/icons?i=figma) &nbsp;&nbsp;
