@@ -33,6 +33,8 @@ Acesse meu GitHub principal clicando [aqui.](https://github.com/urbanykv)
 <img src="https://portfolio-matheusurban.vercel.app/assets/icons/sql-server.png" alt="SQL Server" width="48" height="48"/>
 ![Node.js](https://skillicons.dev/icons?i=nodejs) &nbsp;&nbsp;
 ![Express.js](https://skillicons.dev/icons?i=express) &nbsp;&nbsp;
+
+### Tecnologias que estou estudando
 ![Figma](https://skillicons.dev/icons?i=figma) &nbsp;&nbsp;
 ![Illustrator](https://skillicons.dev/icons?i=illustrator) &nbsp;&nbsp;
 
