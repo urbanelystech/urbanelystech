@@ -1,4 +1,4 @@
-# Olá, eu sou o Matheus Urban. (Conta ElysTech) ✌
+# Olá, eu sou o Matheus Urban. ✌
 
 [![Capa Matheus Urban](https://media.licdn.com/dms/image/D4D16AQEX3fokRNwUjg/profile-displaybackgroundimage-shrink_350_1400/0/1707420435814?e=1712793600&v=beta&t=VLUPhFtbu_pIk31OZXYAKbAM2QIOCzW2c5jcvsVN0bI)](https://www.linkedin.com/in/urbanykv/)
 
@@ -18,6 +18,8 @@ const sobre = {
 Oi! Sou o Matheus Urban, Desenvolvedor MES na [Metalsa](https://www.linkedin.com/company/metalsacompany/) e \
 voluntário como Desenvolvedor front end na [Developers](https://discord.gg/developers-202147515766800384). \
 Amo tecnologia e estou sempre em busca de desafios criativos.
+
+Acesse meu GitHub principal clicando [aqui.](https://github.com/urbanykv)
 
 ### Tecnologias e Softwares
 
